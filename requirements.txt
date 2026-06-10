@@ -1,0 +1,6 @@
+# OCHR 谐振龙虾集群依赖
+# 核心功能仅依赖Python标准库（asyncio, logging, time, json, os, pathlib, socket, dataclasses, typing, enum）
+# 无需额外安装即可运行
+
+# 如需使用 ThinkCheck Harmony 评估引擎，请额外安装:
+# pip install thinkcheck-harmony
